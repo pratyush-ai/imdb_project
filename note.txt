@@ -1,0 +1,7 @@
+Axios is a popular , promise-based httpclint that sports an easy to use api and  can be used in both browser and
+Nodejs making http requests to featch or save the data is one of the most common task a client side javascript application.
+
+featchApi
+---------
+The fetch api provides a fetch() defind on the window.object, which you can used to perform requests.
+This method return a promise that you can used to retrive the response of the request.
